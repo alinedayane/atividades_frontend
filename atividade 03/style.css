@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dfa0c9;
+    display: flex;
+    justify-content: center;
+    align-items: 100vh;
+    margin: 0;
+}
+
+.cartao{
+    background-color: #fafafa;
+    border-radius: 15px;
+    padding: 10x;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    text-align: center;
+    width: 300px;
+}
