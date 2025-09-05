@@ -1,0 +1,37 @@
+nav{
+
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #ea0e75;
+padding: 10px 0;
+z-index: 1000;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: nome;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    transition: color 0.3;
+}
+
+nav ul li a:hover{
+    color: yellow;
+}
+
+main{
+    margin-top: 70px;
+}
