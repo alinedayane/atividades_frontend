@@ -1,0 +1,9 @@
+/*No arquivo style.css*/
+body {
+    background-color: rgba(255, 0, 170, 0.521);}
+
+.destaque {background-color: yellow;}
+
+#titulo-secao{
+    text-align: center;
+}
